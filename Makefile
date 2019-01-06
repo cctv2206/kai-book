@@ -16,3 +16,4 @@ deploy-online:
 	gitbook build ./book ./docs
 	git add .
 	git commit -m 'MOD: deploy book'
+	git push
