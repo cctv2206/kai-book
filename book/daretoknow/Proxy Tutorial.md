@@ -117,7 +117,7 @@ haha
 
 ### 3.2 安装 Shadowsocks 服务器 - 墙外代理人（必做）
 
-Shadowsocks 有多个版本，感兴趣的同学可以去 Github 搜索 Shadowsocks。有多种方式可以安装 Shadowsocks 服务器，我们将使用最简单的一种方式，一个叫秋水逸冰的人制作了一个方便我们安装 Shadowsocks 的电脑程序。感谢秋水逸冰，欢迎大家去[他的博客](teddysun.com)逛逛。
+Shadowsocks 有多个版本，感兴趣的同学可以去 Github 搜索 Shadowsocks。有多种方式可以安装 Shadowsocks 服务器，我们将使用最简单的一种方式，一个叫秋水逸冰的人制作了一个方便我们安装 Shadowsocks 的电脑程序。感谢秋水逸冰，欢迎大家去[他的博客](http://teddysun.com)逛逛。
 
 输入并执行下面这行指令。请注意这是一行指令，中间不要有换行。它的作用就是下载一个叫`shadowsocks-all.sh`的文件，这是帮助我们“一键安装” Shadowsocks 服务器的程序。
 ```
