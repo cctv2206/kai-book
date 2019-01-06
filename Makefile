@@ -15,4 +15,4 @@ deploy-online:
 	cp -R ~/Documents/gitbook/ ~/Dev/kai-book/book
 	gitbook build ./book ./docs
 	git add .
-	git commit -m $(m)
+	git commit -m 'MOD: deploy book'
