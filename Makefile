@@ -1,5 +1,5 @@
 dev:
-	gitbook serve
+	gitbook serve ./book
 
 deploy:
-	gitbook build . ./docs
+	gitbook build ./book ./docs
