@@ -1,11 +1,8 @@
 
 
 dev:
+	cp -R ~/Documents/gitbook/ ~/Dev/kai-book/book
 	gitbook serve ./book
-
-test-message:
-	m = 'default message'
-	echo $(m)
 
 deploy-test:
 	cp -R ~/Documents/gitbook/ ~/Dev/kai-book/book
