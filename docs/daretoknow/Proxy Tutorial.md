@@ -24,7 +24,7 @@
 VPS 提供商有很多，比如 Linode，Vultr，DigitalOcean 和阿里云等。本文选用 Linode，5美元一个月，可以和几个小伙伴一起分享。高速，稳定，价格合理。
 
 ### 2.1 注册
-打开[Linode官网首页](https://www.linode.com)，输入邮箱，用户名，密码。建立新账号。
+打开[Linode官网首页](https://www.linode.com)，输入邮箱，用户名，密码。建立新帐号。
 
 ![](Proxy%20Tutorial/linode%E6%B3%A8%E5%86%8C.png)
 
@@ -42,7 +42,7 @@ promotion code(优惠码)：`Linode10`
 注册成功之后，会直接获得10美元奖励，相当于免费用两个月。
 
 referral code(推荐码)：`4ae052ea06605760e53d092ea6cc91c0caf1b214`
-请大家用这个推荐码，注册成功并持续使用这个账号3个月，作者可以获得一点奖励，谢谢大家。
+请大家用这个推荐码，注册成功并持续使用这个帐号3个月，作者可以获得一点奖励，谢谢大家。
 
 ![](Proxy%20Tutorial/super%20power.gif)
 
@@ -205,7 +205,7 @@ Shadowsocks [下载地址](https://github.com/shadowsocks/shadowsocks-windows/re
 找到带有`Latest release`标识的版本，点击下载 zip 文件，解压缩后将 Shadowsocks.exe 文件移到一个全英文的路径下（例如 `C:\Program Files\Shadowsocks.exe`），然后用管理员权限运行。添加并配置服务器的参数。右下角的系统工具栏里会出现“小飞机”图标，右键可以打开 Shadowsocks 的菜单。
 
 ### 4.3 iOS
-从应用商店中下载 Potatso Lite。注意，苹果已经将所有的 VPN 类 APP 从中国的应用商店中移除了。所以如果你搜索不到这个 app，你可能需要将苹果账号的国家/地区改成美国，更改的方式请参考[苹果官方技术支持](https://support.apple.com/zh-cn/HT201389)。
+从应用商店中下载 Potatso Lite。注意，苹果已经将所有的 VPN 类 APP 从中国的应用商店中移除了。所以如果你搜索不到这个 app，你可能需要将苹果帐号的国家/地区改成美国，更改的方式请参考[苹果官方技术支持](https://support.apple.com/zh-cn/HT201389)。
 打开 Potatso Lite 后，直接添加 proxy，选择手动添加，然后输入服务器的信息。添加完成后点“start_stop”按钮开启_关闭服务，手机可能会问你是否开启 vpn 权限，当然是。开启时手机最上方的状态栏应该会出现 vpn 的小图标。
 
 ### 4.4 Android
