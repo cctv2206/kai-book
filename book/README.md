@@ -5,6 +5,6 @@
 
 [新浪微博 @康康康锴锴锴](http://weibo.com/whatifkk)
 
-[知乎 - 康锴](https://www.zhihu.com/people/kang-kai-51)
+[知乎 @康锴](https://www.zhihu.com/people/kang-kai-51)
 
 #gitbook

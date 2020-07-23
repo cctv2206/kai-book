@@ -69,9 +69,9 @@ Shadowsocks 服务器就是我们所说的墙外代理人，我们将这个代�
 
 苹果操作系统 (macOS) 请打开 Terminal (终端) 应用。如果找不到，就请打开 Application (应用) 文件夹，搜索 Terminal。
 
-Window 操作系统，请购买一台苹果电脑，不是，请打开 Command Prompt 应用。可以在「开始」图标的右侧搜索框中搜索「command prompt」或「cmd」，第一个搜索结果就是。
+Window 操作系统，请购买一台苹果电脑，不是，请打开 Command Prompt 应用。可以在「开始」图标的右侧搜索框中搜索`command prompt`或`cmd`，第一个搜索结果就是。
 
-在 Terminal 或 Command Prompt 应用中输入下面这个指令，注意将「ping」后面的数字换成刚才部署的服务器的 IP 地址，按回车键执行。
+在 Terminal 或 Command Prompt 应用中输入下面这个指令，注意将`ping`后面的数字换成刚才部署的服务器的 IP 地址，按回车键执行。
 
 ```
 ping 45.76.114.71
@@ -116,7 +116,7 @@ ssh root@45.76.216.218
 
 ![](Proxy%20Tutorial%20-%20Vultr/v2-7720bb3bfb8ba5670ee60c3ace52e5e3_b.jpg)
 
-如果你使用的是 Windows 操作系统，请参考 [百度经验教程](https://jingyan.baidu.com/article/90bc8fc8b9bca1f653640ca5.html)，在第 4 步中填入 IP 地址，Port 一项填 22。 并在第 7 步中输入密码。
+如果你使用的是 Windows 操作系统，请参考[百度经验教程](https://jingyan.baidu.com/article/90bc8fc8b9bca1f653640ca5.html)，在第 4 步中填入 IP 地址，Port 一项填 22。 并在第 7 步中输入密码。
 
 至此，我们就用 SSH 连接到墙外的那台电脑了，你应该能看到一个黑色背景的界面，上面有一行行的英文和数字，最下面一行是这样显示的。
 
